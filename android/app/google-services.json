@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387819448527",
+    "project_id": "joblisting-f3ab8",
+    "storage_bucket": "joblisting-f3ab8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387819448527:android:e03ae1f8160cc6f4d7afba",
+        "android_client_info": {
+          "package_name": "com.joblisting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387819448527-e7pk11acgq9r2hi4kngjo8652oq0k9et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQG3OuDKlFc5CELpWpZOJlD73O5V79wtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387819448527-e7pk11acgq9r2hi4kngjo8652oq0k9et.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
